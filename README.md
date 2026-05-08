@@ -1,4 +1,3 @@
-<img width="1080" height="1920" alt="G3id3VaXcAArA-f" src="https://github.com/user-attachments/assets/d2ac036b-9467-4e5e-b04a-012b97bcdf62" />
 ## Howdy, I'm Preston
 
 I just recently graduated from UTA with a Bachelor of Science in Computer Science and will be attending SMU Guild Hall this Fall 2026 for a Master of Interactive Technology focused on Software Development. 
