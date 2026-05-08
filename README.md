@@ -2,7 +2,7 @@
 
 I just recently graduated from UTA with a Bachelor of Science in Computer Science and will be attending SMU Guild Hall this Fall 2026 for a Master of Interactive Technology focused on Software Development. 
 
-I am interested in topics such as Game Design, Graphics Programming, Machine Learning, and AI. 
+I am interested in topics such as Game Design, Game Studies, Graphics Programming, Machine Learning, and AI. 
 
 Alot of my skills center around low level learning and trying to learn as much as I can about the topics I am interested in. 
 
