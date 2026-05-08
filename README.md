@@ -11,14 +11,3 @@ This goes for a lot of my projects, especially my most recent project [ProtoBot]
 While I can try to learn as many different technologies as possible to develop my overall skills, I prefer to stick to what I love, and it certainly helps during the more difficult times of solving programming problems.
 
 If you are wanting more details on the projects I have worked on, click on some of my pinned projects!
-
-
-<br>
-<pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 stuff
-</pre>
-<br>
