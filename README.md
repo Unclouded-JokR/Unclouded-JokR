@@ -11,3 +11,5 @@ This goes for a lot of my projects, especially my most recent project [ProtoBot]
 While I can try to learn as many different technologies as possible to develop my overall skills, I prefer to stick to what I love, and it certainly helps during the more difficult times of solving programming problems.
 
 If you are wanting more details on the projects I have worked on, look at some of my pinned projects ReadMe's.
+
+<img width="2480" height="500" alt="c662edb4bfb6861f0ef451255a0b2098" src="https://github.com/user-attachments/assets/5c7581e8-46b1-4d54-91dd-18474b00c3e6" />
