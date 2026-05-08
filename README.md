@@ -12,5 +12,13 @@ While I can try to learn as many different technologies as possible to develop m
 
 If you are wanting more details on the projects I have worked on, click on some of my pinned projects!
 
-<img width="2480" height="1150" alt="c662edb4bfb6861f0ef451255a0b20982" src="https://github.com/user-attachments/assets/44adba02-11f6-4e8b-bac9-82827220bb6d" />
 
+<br>
+<pre>
+    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+    🐾 stuff
+</pre>
+<br>
