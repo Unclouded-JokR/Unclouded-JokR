@@ -1,4 +1,4 @@
-## Howdy, I'm Preston
+## Howdy, I'm Preston 
 
 I just recently graduated from UTA with a Bachelor of Science in Computer Science and will be attending SMU Guild Hall this Fall 2026 for a Master of Interactive Technology focused on Software Development. 
 
@@ -10,7 +10,7 @@ This goes for a lot of my projects, especially my most recent project [ProtoBot]
 
 While I can try to learn as many different technologies as possible to develop my overall skills, I prefer to stick to what I love, and it certainly helps during the more difficult times of solving programming problems.
 
-If you are wanting more details on the projects I have worked on, look at some of my pinned projects ReadMe's.
+If you are wanting more details on the projects I have worked on, click on some of my pinned projects!
 
 <img width="2480" height="1150" alt="c662edb4bfb6861f0ef451255a0b20982" src="https://github.com/user-attachments/assets/44adba02-11f6-4e8b-bac9-82827220bb6d" />
 
