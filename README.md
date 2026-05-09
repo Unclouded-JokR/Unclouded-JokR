@@ -1,7 +1,9 @@
-## Howdy, I'm Preston 
+## 👋 Howdy, I'm Preston 
 🎓 Computer Science Graduate from The University of Texas at Arlington  
 🎮 Incoming SMU Guildhall Master's Student (Interactive Technology - Software Development)  
 🧠 Interested in AI, Graphics Programming, Game Design, Game Studies, Operating Systems, and Low-Level Systems  
+
+## Featured Project (StarCraft: Broow War Game-Playing Agent, ProtoBot)
 
 ## 📫 Connect With Me
 - Email: loerapreston@gmail.com
