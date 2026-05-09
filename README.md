@@ -9,3 +9,4 @@
 - Email: loerapreston@gmail.com
 - LinkedIn: https://www.linkedin.com/in/preston-loera-847463337/
   https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
