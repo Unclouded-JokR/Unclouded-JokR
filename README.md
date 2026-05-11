@@ -3,7 +3,7 @@
 🎮 Incoming SMU Guildhall Master's Student (Interactive Technology - Software Development)  
 🧠 Interested in AI, Machine Learning, Graphics Programming, Game Design, Game Studies, Operating Systems, and Low-Level Programming  
 
-# About Me:
+### About Me:
 My skills center around low-level learning and learning as much as I can about the topics I am interested in. This goes for almost all my projects and especially my most recent project [ProtoBot](https://github.com/Unclouded-JokR/StarCraftAI), a StarCraft: Brood War Game-Playing Agent built almost entirely from scratch. I love to apply what I learned in school and the topics I read about in books to projects I find interesting to dive deep into.
 
 For more details on the projects I have worked on, check out some of my pinned projects.
