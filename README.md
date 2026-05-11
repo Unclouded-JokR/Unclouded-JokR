@@ -12,7 +12,7 @@ For more details on the projects I have worked on, check out some of my pinned p
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preston-loera-847463337)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jkr8102)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:loerapreston@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loerapreston@gmail.com) 
 
 # YouTube Videos:
 <!-- BEGIN YOUTUBE-CARDS -->
