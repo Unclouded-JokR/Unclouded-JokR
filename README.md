@@ -4,7 +4,7 @@
 🧠 Interested in AI, Machine Learning, Graphics Programming, Game Design, Game Studies, Operating Systems, and Low-Level Programming  
 
 ## Connect With Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg))](https://linkedin.com/in/preston-loera-847463337) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg))](https://linkedin.com/in/preston-loera-847463337) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jkr8102)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loerapreston@gmail.com) 
 
