@@ -1,4 +1,4 @@
-## Howdy, I'm Preston!
+# Howdy, I'm Preston!
 🎓 Computer Science Graduate from The University of Texas at Arlington  
 🎮 Incoming SMU Guildhall Master's Student (Interactive Technology - Software Development)  
 🧠 Interested in AI, Machine Learning, Graphics Programming, Game Design, Game Studies, Operating Systems, and Low-Level Programming  
