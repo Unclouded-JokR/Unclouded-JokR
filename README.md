@@ -4,15 +4,9 @@
 🧠 Interested in AI, Machine Learning, Graphics Programming, Game Design, Game Studies, Operating Systems, and Low-Level Programming  
 
 ## Connect With Me
-<a href="mailto:loerapreston@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/preston-loera-847463337/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@jkr8102" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+![https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:loerapreston@gmail.com)
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/preston-loera-847463337/)
+![https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://www.youtube.com/@jkr8102)
 
 ## Video Essays
 <!-- BEGIN YOUTUBE-CARDS -->
