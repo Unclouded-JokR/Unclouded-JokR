@@ -17,3 +17,8 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
+
+## Video Essays
+<!-- BEGIN YOUTUBE-CARDS -->
+[![ProtoBot: Senior Design Demo](https://ytcards.demolab.com/?id=2BLtU8EJ5N8&title=ProtoBot:+Senior+Design+Demo&lang=en&timestamp=1775260800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=373 "ProtoBot: Senior Design Demo")](https://www.youtube.com/watch?v=2BLtU8EJ5N8)
+<!-- END YOUTUBE-CARDS -->
